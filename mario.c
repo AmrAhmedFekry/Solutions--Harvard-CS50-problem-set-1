@@ -1,3 +1,13 @@
+/**
+  *
+  * mario.c
+  *
+  * Amr Ahmed Fekry
+  *
+  *
+  *
+  */
+
 #include <cs50.h>
 #include <stdio.h>
 
