@@ -1,3 +1,15 @@
+/**
+  *
+  * credit.c
+  *
+  * Amr Ahmed Fekry
+  *
+  * A program for validating credit card numbers.
+  *
+  */
+
+
+
 #include <cs50.h>
 #include <stdio.h>
 #include <math.h>
