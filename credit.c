@@ -46,8 +46,9 @@ int main(void){
          f_sum = f_sum + array[j];
         } 
         }
+     else
         f_sum = f_sum + multi;
-    }
+     }
 
  for (int k = 0 ; k < count ; k=k+2){
        the_result = the_result + number[k] ;
